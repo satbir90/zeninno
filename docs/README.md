@@ -1,37 +1,19 @@
 ## Welcome to Zeninno
 
-You can use the [editor on GitHub](https://github.com/zeninno/zeninno/edit/master/docs/README.md) to maintain and preview the content for your website in Markdown files.
+### Who We are
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are a bunch of very passionate professionals who love creating awesome user experiences through technology. We are experts in providing web, software and mobile solutions to our clients so that they can achieve more! we are commited to creating a long term relationship with our clients wherein both of us a winners. We are always happy to listen to the Ideas of our clients and are genuinely interested in providing the best solutions. Our services go beyond what is expected. We are good at what we do is because we like love what we do.
 
-### Markdown
+### Our Values
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We believe that by providing high quality products and services, combined with unrivalled customer care. At Boon Breakers, we see it as our top priority to make YOUR ideas work. So even though the vast majority of our clients have never met us in person--they feel like they know us! In short, we understand what it takes to work from a remote location and we make sure it works for you.
+
+### Our Goals
+
+building relationships, enriching communication, and striving to set a standard in project delivery, Our daily goal is to maintain a positive atmosphere that encourages fresh creativity for our team and jump-off-the-page websites for our clients. We work to create an overall awesome experience through a complete understanding of our clients needs, excellent communication throughout the process
 
 ```markdown
-Syntax highlighted code block
+### What We Do
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Web Design and development, e-commerce solution, Logo Design, .NET Web applications (MVC and Web forms), Android Development, SEO, SEM, SMO, Testing
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zeninno/zeninno/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
