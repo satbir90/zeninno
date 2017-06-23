@@ -12,8 +12,6 @@ We believe that by providing high quality products and services, combined with u
 
 building relationships, enriching communication, and striving to set a standard in project delivery, Our daily goal is to maintain a positive atmosphere that encourages fresh creativity for our team and jump-off-the-page websites for our clients. We work to create an overall awesome experience through a complete understanding of our clients needs, excellent communication throughout the process
 
-```markdown
 ### What We Do
 
 Web Design and development, e-commerce solution, Logo Design, .NET Web applications (MVC and Web forms), Android Development, SEO, SEM, SMO, Testing
-```
