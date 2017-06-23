@@ -1,27 +1,17 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/)
+## Welcome to Zeninno
 
-[Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/) is a responsive, one page portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.
+### Who We are
 
-## Getting Started
+We are a bunch of very passionate professionals who love creating awesome user experiences through technology. We are experts in providing web, software and mobile solutions to our clients so that they can achieve more! we are commited to creating a long term relationship with our clients wherein both of us a winners. We are always happy to listen to the Ideas of our clients and are genuinely interested in providing the best solutions. Our services go beyond what is expected. We are good at what we do is because we like love what we do.
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/stylish-portfolio/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio.git`
-* Fork the repo
+### Our Values
 
-## Bugs and Issues
+We believe that by providing high quality products and services, combined with unrivalled customer care. At Boon Breakers, we see it as our top priority to make YOUR ideas work. So even though the vast majority of our clients have never met us in person--they feel like they know us! In short, we understand what it takes to work from a remote location and we make sure it works for you.
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/stylish-portfolio/).
+### Our Goals
 
-## Creator
+building relationships, enriching communication, and striving to set a standard in project delivery, Our daily goal is to maintain a positive atmosphere that encourages fresh creativity for our team and jump-off-the-page websites for our clients. We work to create an overall awesome experience through a complete understanding of our clients needs, excellent communication throughout the process
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+### What We Do
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/blob/gh-pages/LICENSE) license.
+Web Design and development, e-commerce solution, Logo Design, .NET Web applications (MVC and Web forms), Android Development, SEO, SEM, SMO, Testing
